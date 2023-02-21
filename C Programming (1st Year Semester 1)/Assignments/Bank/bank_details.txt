@@ -1,0 +1,25 @@
+
+User: 1
+Name: david okello
+Account No: 444
+Account Bal: 5000
+
+User: 2
+Name: gg
+Account No: 9
+Account Bal: 9
+
+User: 3
+Name: m
+Account No: 8
+Account Bal: 8
+
+User: 4
+Name: mm
+Account No: 89
+Account Bal: 98
+
+User: 5
+Name: uu
+Account No: 88
+Account Bal: 77

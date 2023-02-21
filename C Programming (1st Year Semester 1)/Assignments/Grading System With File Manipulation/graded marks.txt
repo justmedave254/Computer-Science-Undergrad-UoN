@@ -1,0 +1,6 @@
+Grade for subject 2: B
+Grade for subject 3: F
+Grade for subject 4: F
+Grade for subject 5: A
+Grade for subject 6: D
+Grade for subject 7: F
