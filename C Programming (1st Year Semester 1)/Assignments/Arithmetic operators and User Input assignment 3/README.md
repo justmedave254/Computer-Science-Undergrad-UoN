@@ -1,4 +1,5 @@
-#What it Does
+# What it Does
+
 /*
 Create a program that requests the user to enter marks and grades for the units you
 are currently doing and display the marks for the units to the screen in the following format. 
