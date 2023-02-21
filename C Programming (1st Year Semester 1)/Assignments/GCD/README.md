@@ -1,5 +1,4 @@
-#What it Does
-/*
-Calculates GCD
+# What it Does
 
-*/
+Calculates GCD
+ 
