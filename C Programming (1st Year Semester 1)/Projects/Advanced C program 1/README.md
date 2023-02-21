@@ -1,5 +1,5 @@
-#What it Does
-/*
+# Instructions
+
 Create a menu driven program that has the following menus
 1.      Get number
 2.      Determine if Number is Even or Odd
@@ -15,4 +15,3 @@ You must create the following functions
 5.      NumDigit: This function should return the number of digits in the given number
 
 Hint: To determine the number of digits in a number, divide it repeatedly by 10. When the number reaches 0, the number of divisions is the number of digits in the original number.
-*/
