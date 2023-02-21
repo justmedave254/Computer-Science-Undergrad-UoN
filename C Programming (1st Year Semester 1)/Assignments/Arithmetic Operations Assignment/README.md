@@ -1,5 +1,5 @@
 # What it Does
-/*
+
 Create a program that has two integer variables.
 
 Display the sum, division, multiplication, subtraction  of the two variables.
@@ -13,4 +13,3 @@ Subtraction: number 1 - number2=Answer
 Multiplication:  number 1 * number2=Answer
 
 Division: number 1 / number2=Answer
-*/
