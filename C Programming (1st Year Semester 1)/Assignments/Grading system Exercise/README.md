@@ -1,5 +1,5 @@
-#What it Does
-/*
+# What it Does
+
 Create a program that captures,
     the full names of the student,
     the student registration number,
@@ -14,7 +14,6 @@ STUDENT NAME: XXXXX XXXX
 
 STUDENT IDNO: P15/22333/2021
 
-COURSE CODE        MARKS       GRADE
+COURSE CODE  &emsp;        MARKS  &emsp;       GRADE
 
-CSC 115             30           F
-*/
+CSC 115  &emsp;    &emsp; &emsp;   &emsp;        30  &emsp;   &emsp; &emsp;         F
