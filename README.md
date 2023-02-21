@@ -1,2 +1,2 @@
-# Computer-Science-Undergrad-UoN-
-Where I publish all the work I'm are doing in class
+# Computer-Science-Undergrad-UoN
+Where I publish all the work that I do in class
